@@ -45,6 +45,6 @@ Exporting the transformed data to CSV files.
 For troubleshooting, please ensure that all dependencies are correctly installed and that the Excel file is located in the correct directory.
 
 # Contributors
-Maria Torres
-Jose Cuevas
-Krysta Sharp
+Maria Torres,
+Jose Cuevas,
+Krysta Sharp.
